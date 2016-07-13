@@ -322,5 +322,5 @@ frappe.wiz.on("before_load", function() {
 	frappe.wiz.add_slide(erpnext.wiz.customers);
 	frappe.wiz.add_slide(erpnext.wiz.suppliers);
 	frappe.wiz.add_slide(erpnext.wiz.items);
-	frappe.wiz.welcome_page = "#welcome-to-erpnext";
+	frappe.wiz.welcome_page = "#welcome-to-erpmodern";
 });
